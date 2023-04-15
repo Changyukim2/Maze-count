@@ -93,7 +93,6 @@ void push_loc(Stacktype* s, int r, int c)
 	if (count == 4) { bcount++; }
 		
 	
-
 }
 
 void maze_print(char maze[MAZE_SIZE][MAZE_SIZE])
